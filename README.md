@@ -25,18 +25,12 @@ Improve quality and reliability of Product Master Data by identifying missing, i
 
 ## 🔄 Product MDM Workflow I Follow
 
-1. Extract product information into Databricks (staging area)
-
+1. Extract product information into Databricks
 2. Perform profiling to identify data gaps and quality issues
-
 3. Standardize & enrich data where needed
-
 4. Load updated data into Informatica P360
-
 5. Apply validation rules and governance approvals
-
 6. Generate golden records using match & merge
-
 7. Publish golden data to ERP and e-commerce systems
 
 
