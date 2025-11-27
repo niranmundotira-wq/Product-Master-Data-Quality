@@ -21,10 +21,6 @@ Improve quality and reliability of Product Master Data by identifying missing, i
 
 ---
 
----
-
----
-
 ## 🔄 Product MDM Workflow I Follow
 
 1️⃣ Extract product information into Databricks (staging area)
